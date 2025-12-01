@@ -1,0 +1,5 @@
+com\example\marketplace\SpringMarketplaceApplication.class
+com\example\marketplace\service\ProductService.class
+com\example\marketplace\repository\ProductRepository.class
+com\example\marketplace\model\Product.class
+com\example\marketplace\controller\ProductController.class
